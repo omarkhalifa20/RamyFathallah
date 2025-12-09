@@ -34,7 +34,7 @@ export default function HomeComp() {
            className=" flex lg:whitespace-nowrap rotate-90 items-center text-Shad cursor-pointer text-[#fff] text-[18px] lg:text-[60px] Bebas gap-2 ">Get Started <MoveRight size={100} /></motion.button>
         </div>
 
-       <div className="col-span-12 lg:col-span-8 flex justify-center lg:pt-50 relative">
+       <div className="col-span-12 lg:col-span-8 flex justify-center md:pt-50 lg:pt-50 relative">
 
          <div className="w-[100%] lg:w-[90%] relative flex items-end rounded-4xl h-85 lg:h-100 box-Shad bg-[#ffffffbd] z-10">
           </div>
