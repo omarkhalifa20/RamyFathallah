@@ -21,7 +21,7 @@ export default function NavbarComp() {
   <button onClick={() => {document.getElementById('About')?.scrollIntoView({ behavior: 'smooth' }); }} className='Lalezar cursor-pointer text-[#006763]'  >نبذة عني</button>
   <button onClick={() => {document.getElementById('home')?.scrollIntoView({ behavior: 'smooth' }); }} className='Lalezar cursor-pointer text-[#006763]'  >الرئيسية</button>
   </div>
-  <button onClick={() => {document.getElementById('home')?.scrollIntoView({ behavior: 'smooth' }); }} className=' lg:hidden flex cursor-pointer' ><img className='w-[40px] ' src="/RFLogo.png" alt="" /></button>
+  <button onClick={() => {document.getElementById('home')?.scrollIntoView({ behavior: 'smooth' }); }} className=' lg:hidden flex cursor-pointer' ><img className='w-[30px] ' src="/RFLogo.png" alt="" /></button>
   </div>
   <div className="navbar-center hidden lg:flex ">
     <button onClick={() => {document.getElementById('home')?.scrollIntoView({ behavior: 'smooth' }); }} className=' cursor-pointer' ><img className='w-[40px] ' src="/RFLogo.png" alt="" /></button>
