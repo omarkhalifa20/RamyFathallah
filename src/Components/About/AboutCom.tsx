@@ -31,14 +31,14 @@ export default function AboutCom() {
                <img className=" w-[41px] " src="/smouha.webp" />
                </div>
                <div className='col-span-12 lg:col-span-4 flex justify-end bg-gradiant rounded-xl items-center'>
-               <p className='Lalezar outline-text text-[#fff] text-[13.5px]'>مدير وشريك بمكتب فتح الله وشركـــــاه </p>
+               <p className='Lalezar outline-text text-[#fff] py-2 text-[13.5px]'>مدير وشريك بمكتب فتح الله وشركـــــاه </p>
                <img className=" w-[41px] " src="/fathallahco2.png" />
                </div>
                <div className='col-span-12 lg:col-span-4 flex gap-2 justify-end bg-gradiant4 rounded-xl items-center'>
                <p className='Lalezar outline-text text-[#fff] text-[13px]'>عضو مراقبى الجهاز المركزي للمحاسبات </p>
                <img className=" w-[41px] " src="/الجهاز_المركزي_للمحاسبات_(مصر).png" />
                </div>
-               <div className='col-span-12 lg:col-span-4 gap-2 flex justify-end bg-gradiant5 rounded-xl items-center'>
+               <div className='col-span-12 lg:col-span-4 gap-2 py-2 flex justify-end bg-gradiant5 rounded-xl items-center'>
                <p className='Lalezar outline-text text-[#fff] text-white text-[14px]'>عضو جمعية المحاسبين القانونيين </p>
                <img className=" w-[41px] " src="/united (4).png" />
                </div>
