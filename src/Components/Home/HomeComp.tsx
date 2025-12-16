@@ -34,12 +34,12 @@ export default function HomeComp() {
            className=" flex lg:whitespace-nowrap rotate-90 items-center text-Shad cursor-pointer text-[#fff] text-[18px] lg:text-[60px] Bebas gap-2 ">Get Started <MoveRight size={100} /></motion.button>
         </div>
 
-       <div className="col-span-12 lg:col-span-8 flex justify-center md:pt-50 lg:pt-50 relative">
+       <div className="col-span-12 lg:col-span-8 flex justify-center ramy-fr  md:pt-50 lg:pt-50 relative">
 
-         <div className="w-[100%] lg:w-[90%] relative flex items-end rounded-4xl h-85 lg:h-100 box-Shad bg-[#ffffffbd] z-10">
+         <div className="w-[100%] lg:w-[90%] relative flex  items-end rounded-4xl h-85 lg:h-100 box-Shad bg-[#ffffffbd] z-10">
           </div>
           
-        <img src="/ramypic.png" className="lg:w-[65%] w-[100%] absolute bottom-0 z-30" alt=""/>
+        <img src="/ramypic.png" className="lg:w-[85%] 2xl:w-[65%] xl:w-[75%] w-[100%] sm:w-[65%] md:w-[65%]  absolute bottom-0 z-30" alt=""/>
         <h1 className="ArefRuqaa text-[60px] lg:text-[110px] absolute text-Shad bottom-13 z-31 text-[#fff] ">رامي فتح الله</h1>
         
          <div className="bg-white w-[100%] lg:w-[90%] grid grid-cols-10 gap items-center z-31 absolute  rounded-2xl bottom-[-19] py-[2px] px-2">
